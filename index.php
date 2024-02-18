@@ -1,5 +1,5 @@
 <?php
 echo "Hello World";
-echo "<br>Somsri";//br ไว้เว้นบรรทัด   
+echo "<br>Somchai";//br ไว้เว้นบรรทัด   
 
 ?>
